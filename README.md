@@ -1,2 +1,2 @@
 # Змейка
-C# projet by GeekBrains
+Учебный проект на C# by GeekBrains
